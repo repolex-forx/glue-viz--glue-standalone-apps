@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-standalone-apps",
+  "versions": [
+    {
+      "commit": "4e35d18fe6d1ff86ddb5feb02572f6cd60a3568b",
+      "tag": "2026.06.4",
+      "parsed_at": "2026-10-16T02:51:01.738333+00:00"
+    }
+  ]
+}
