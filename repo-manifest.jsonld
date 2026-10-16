@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-standalone-apps/commit/4e35d18fe6d1ff86ddb5feb02572f6cd60a3568b",
       "git:hexsha": "4e35d18fe6d1ff86ddb5feb02572f6cd60a3568b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2026.06.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2026.06.4",
+      "repolex:parsedAt": "2026-10-16T02:51:01.737813+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-standalone-apps/commit/4ab83541b108e4c22c841199b2ac1373752b289d",
